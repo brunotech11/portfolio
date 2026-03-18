@@ -22,7 +22,7 @@ Um site simples para apresentar meu portfólio e informações de contato.
 [Ver projeto](https://brunotech11.github.io/portfolio/)
 
 ### 2️⃣ Projeto Lojas Onlines
-Simulação de uma loja online com layout responsivo.  
+Simulação de lojas online com layout responsivo.  
 **Tecnologias:** HTML, CSS, JavaScript  
 [Ver projeto](https://brunotech11.github.io/restaurante/)
 [Ver projeto](https://brunotech11.github.io/barbearia/)
@@ -32,8 +32,8 @@ Simulação de uma loja online com layout responsivo.
 ## 📫 Contato
 
 - ✉️ Email: **brunocvdantas@gmail.com**  
-- 💼 LinkedIn: [linkedin.com/in/seunome](www.linkedin.com/in/bruno-caldas-ab1304271)  
-- 🐙 GitHub: [github.com/seunome](https://github.com/brunotech11)
+- 💼 LinkedIn: [linkedin.com/in/bruno-caldas](www.linkedin.com/in/bruno-caldas-ab1304271)  
+- 🐙 GitHub: [github.com/brunotech11](https://github.com/brunotech11)
 
 ---
 
