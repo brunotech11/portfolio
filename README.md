@@ -32,7 +32,6 @@ Simulação de lojas online com layout responsivo.
 ## 📫 Contato
 
 - ✉️ Email: **brunocvdantas@gmail.com**  
-- 💼 LinkedIn: [linkedin.com/in/bruno-caldas-ab1304271](www.linkedin.com/in/bruno-caldas-ab1304271/)  
 - 🐙 GitHub: [github.com/brunotech11](https://github.com/brunotech11)
 
 ---
