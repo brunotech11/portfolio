@@ -1,4 +1,4 @@
-# 👋 Portfólio de Bruno Caldas
+# 👋 Portfólio Bruno Caldas
 
 Olá! Sou **Bruno Caldas**, desenvolvedor web iniciante.  
 Crio projetos em **HTML, CSS e JavaScript**, buscando aprender novas tecnologias e construir sites funcionais e bonitos.
